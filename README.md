@@ -1,1 +1,2 @@
-# ML-MRI-GAN
+BRAIN MRI GAN
+
